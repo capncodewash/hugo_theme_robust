@@ -2,16 +2,16 @@
 
 # Features
 
-* Google Analytics
-* Disqus
-* Share Buttons(fb, twitter, google+, pocket)
-* Eye-catching Image
+* Google Analytics integration
+* Disqus comments
+* Share Buttons(Facebook, Twitter, Google+, Pocket)
+* Eye-catching images
 * MicroData
-* Readable text(Customized Vertical Rhythm).
+* Readable fonts (customized Vertical Rhythm).
 
 # Installation
 
-[hugoThemes#Installing Themes](https://github.com/spf13/hugoThemes#installing-themes).
+See [hugoThemes#Installing Themes](https://github.com/spf13/hugoThemes#installing-themes).
 
 # Configuration
 
@@ -48,15 +48,15 @@ categories = [
 ]
 
 image = "image.jpg" # optional
-toc = false # optional, When set to FALSE this parameter, table of contents not appears in only this article.
+toc = false # Optional. When this parameter is set to 'false', the table of contents does not appear beside the article.
 +++
 
 Contents here
 ```
 
-# Contact us
+# Contact me
 
-Please mail to `dim0627@gmail.com` or SNS.
+Please email `dim0627@gmail.com` or SNS.
 
 [https://www.facebook.com/daisuke.tsuji.735](https://www.facebook.com/daisuke.tsuji.735)
 
